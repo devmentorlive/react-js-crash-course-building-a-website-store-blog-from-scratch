@@ -1,0 +1,144 @@
+[{
+    "id": "1207943a-b849-453f-9475-589b240a2b26",
+    "name": "Court Graffik",
+    "price": "65.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/300529_courtgraffik,p_001_frt2.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "shoes"
+    ],
+    "colors": [
+      "white"
+    ]
+  },
+  {
+    "id": "68968e39-ce60-440a-aeca-9e771b24b9d9",
+    "name": "Lynx Zero",
+    "price": "65.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/adys100615_dcshoes,p_bkw_frt2.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "shoes"
+    ],
+    "colors": [
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": "1c68118a-3ade-49b1-9dc4-4e896d74d9b2",
+    "name": "Williams Slim",
+    "price": "85.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/adys100539_williamsslim,p_bhp_frt2.jpg",
+    "description": "desc",
+    "tags": [
+      "shoes",
+      "clothing"
+    ],
+    "colors": [
+      "black"
+    ]
+  },
+  {
+    "id": "715075b2-8744-44af-acbb-ba4bcb63adad",
+    "name": "Kalis Vulc",
+    "price": "65.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/adys300569_dcshoes,p_kak_frt2.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "shoes"
+    ],
+    "colors": [
+      "black"
+    ]
+  },
+  {
+    "id": "3b8b7128-051e-4b55-b9f5-f58575539853",
+    "name": "Net",
+    "price": "65.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/302361_dcshoes,p_bst_frt2.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "shoes"
+    ],
+    "colors": [
+      "black"
+    ]
+  },
+  {
+    "id": "12feba9c-ea4a-4ccd-8056-f3922c32896a",
+    "name": "Pure",
+    "price": "65.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/300660_pure,p_hbw_frt2.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "shoes"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": "8f67c07f-43cf-433c-820d-defca945044a",
+    "name": "Cover Hoodie",
+    "price": "80.00",
+    "imageUrl": "https://images.boardriders.com/global/dcshoes-products/all/default/medium-large2/adyft03255_covertph,f_knfh_bck1.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "hoodies"
+    ],
+    "colors": [
+      "grey",
+      "black"
+    ]
+  },
+  {
+    "id": "6020bf51-a7c7-4509-9d7d-69f3426035af",
+    "name": "Govee 32.8ft LED Strip Lights",
+    "price": "34.99",
+    "imageUrl": "https://m.media-amazon.com/images/I/71boqDqyIGL._AC_UL960_FMwebp_QL65_.jpg",
+    "description": "desc",
+    "tags": [
+      "lighting",
+      "led"
+    ],
+    "colors": [
+      "multicolor"
+    ]
+  },
+  {
+    "id": "a380741b-3e72-4d02-853d-d5f79b4d3d4c",
+    "name": "Lepro 50ft LED Strip Lights",
+    "price": "34.95",
+    "imageUrl": "https://m.media-amazon.com/images/I/71VphpWoc5L._AC_UL320_.jpg",
+    "description": "desc",
+    "tags": [
+      "lighting",
+      "led"
+    ],
+    "colors": [
+      "multicolor"
+    ]
+  },
+  {
+    "id": "a9120707-decb-4bb4-90db-f7bf39994693",
+    "name": "Fleece Hoodie",
+    "price": "16.22",
+    "imageUrl": "https://m.media-amazon.com/images/I/81R8AZPpdSL._AC_UL960_FMwebp_QL65_.jpg",
+    "description": "desc",
+    "tags": [
+      "clothing",
+      "hoodies"
+    ],
+    "colors": [
+      "black"
+    ]
+  }
+]

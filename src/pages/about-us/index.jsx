@@ -1,5 +1,5 @@
 import React from 'react';
-import Seo from '../../seo';
+import Seo from '../../app/seo';
 
 export default function AboutUsPage({}) {
   return (
