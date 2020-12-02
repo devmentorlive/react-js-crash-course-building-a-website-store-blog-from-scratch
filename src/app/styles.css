@@ -12,3 +12,7 @@
 a {
   color: var(--accent-color);
 }
+
+table thead th {
+  text-align: left;
+}

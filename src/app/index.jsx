@@ -32,10 +32,6 @@ export default function App() {
             <Route path='/cart'>
               <CartPage />
             </Route>
-
-            <Route path='/checkout'>
-              <CheckoutPage />
-            </Route>
           </Switch>
         </Layout>
       </BrowserRouter>
